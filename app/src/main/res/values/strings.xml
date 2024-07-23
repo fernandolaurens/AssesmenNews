@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AssesmenNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="published_date">Published Date</string>
+    <string name="save_bookmark">Save Bookmark?</string>
+    <string name="image_content_description">News Image</string>
+    <string name="search">Search\n</string>
+
+
+    <string-array name="news_site_array">
+        <item>All</item>
+        <item>NASA</item>
+        <item>ESA</item>
+        <item>Space.com</item>
+        <item>SpaceX</item>
+        <item>Blue Origin</item>
+        <item>Ars Technica</item>
+        <item>The Verge</item>
+    </string-array>
+</resources>
